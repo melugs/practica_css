@@ -1,0 +1,19 @@
+/*.h2{
+    color:blue;
+    font-style: oblique;
+}
+#importante{
+    font-weight: bold;
+    color: red;
+}
+div>p{
+    color: blueviolet;
+    font-style: italic;
+}
+div span{
+    color: red;
+}*/
+
+h1, h2{
+    color: blueviolet;
+}
